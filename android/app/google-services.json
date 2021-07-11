@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "322329846207",
+    "firebase_url": "https://ntua-thesis.firebaseio.com",
+    "project_id": "ntua-thesis",
+    "storage_bucket": "ntua-thesis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322329846207:android:c9b3faaad4b39791e7810a",
+        "android_client_info": {
+          "package_name": "antmoira.med_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322329846207-mseoq8eoe65qgvdftthbog198g3ai09k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcUV79gHokfqz9UL2JbQKa01-sfCY59_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322329846207-mseoq8eoe65qgvdftthbog198g3ai09k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322329846207:android:73f4a574dce1a51be7810a",
+        "android_client_info": {
+          "package_name": "antmoira.medimg_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322329846207-mseoq8eoe65qgvdftthbog198g3ai09k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcUV79gHokfqz9UL2JbQKa01-sfCY59_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322329846207-mseoq8eoe65qgvdftthbog198g3ai09k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
